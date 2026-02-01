@@ -3,6 +3,7 @@ langchain-core
 
 langchain-openai
 openai
+langchain_classic
 
 langchain-anthropic
 
