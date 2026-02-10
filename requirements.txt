@@ -17,3 +17,4 @@ torch
 sentence-transformers
 streamlit
 grandalf
+beautifulsoup4
