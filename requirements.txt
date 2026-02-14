@@ -18,3 +18,5 @@ sentence-transformers
 streamlit
 grandalf
 beautifulsoup4
+faiss-cpu
+chromadb
