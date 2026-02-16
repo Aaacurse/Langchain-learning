@@ -20,3 +20,5 @@ grandalf
 beautifulsoup4
 faiss-cpu
 chromadb
+wikipedia
+tiktoken
